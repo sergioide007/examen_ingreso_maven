@@ -1,4 +1,4 @@
-# examen_ingreso_gradle
+# examen_ingreso_maven
 
 Examen para Especialista Java
 
